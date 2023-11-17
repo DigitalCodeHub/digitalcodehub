@@ -8,7 +8,7 @@
 }
 
 body{
-    background: -webkit-gradient(linear, left bottom, left top, from(#002fff), to(#0077ff)) fixed;
+    background: -webkit-gradient(linear, left bottom, left top, from(#0097B2), to(#2791a4)) fixed;
 }
 
 .center{
@@ -39,7 +39,7 @@ section.box1{
 }
 
 .img-logo:hover{
-    border-color: black;
+    border-color: #094752;
 }
 .img-logo{
     border:2px solid white;
